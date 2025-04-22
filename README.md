@@ -7,8 +7,10 @@ This is a simple GTK-based process manager simulation written in C. You can:
 - Terminate individual processes
 - Delete all processes
 
-## Build Instructions
+## 📸 Screenshot
+![Output Screen Screenshot](gtk_app_output.PNG)
 
+## Build Instructions
 Make sure GTK 3 is installed. Then compile using:
 
 ```bash
